@@ -1,7 +1,7 @@
 * {
     image-resolution: auto;
 }
-/* my first complete work */
+/* main styling */
 
 body {
     background-image: linear-gradient(135deg, black) ;
@@ -38,6 +38,7 @@ header {
     padding-left: 5px; 
 }
 
+/* header font and boldness */
 header h1 {
     font-size: 20px;
     font-weight: 700;
